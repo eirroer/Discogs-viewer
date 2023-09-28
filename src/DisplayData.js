@@ -7,7 +7,6 @@ function DisplayData(props) {
   } else {
     return (
       <div className="display-wrapper">
-        {/* make a table */}
         <table>
           <thead>
             <tr>
@@ -36,17 +35,3 @@ function DisplayData(props) {
 }
 
 export default DisplayData;
-
-{
-  /* <p>Results:</p>
-        <ul>
-          {apiData.results.map((item) => (
-            <li key={item.id}>
-              <p>{item.title}</p>
-              <p>{item.year}</p>
-              <a>{item.resource_url}</a>
-              <p>{item.type}</p>
-            </li>
-          ))}
-        </ul> */
-}
