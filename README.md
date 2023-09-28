@@ -1,6 +1,7 @@
 # Discogs viewer client
 
 Client for viewing artist releases from Discogs API
+<img width="587" alt="image" src="https://github.com/eirroer/Discogs-viewer-client/assets/62816788/25c18a06-14a7-4ec0-9f43-2d8c539fe050">
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
