@@ -1,4 +1,4 @@
-git pulimport React, { useState } from 'react';
+import React, { useState } from 'react';
 import './App.css';
 import DisplayData from './DisplayData';
 import { useEffect } from 'react';
